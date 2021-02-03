@@ -2,4 +2,6 @@
 
 원본: https://arxiv.org/pdf/1610.00502.pdf
 
-ing...
+블로그로 옮김.
+
+https://blog.naver.com/turttle2s
